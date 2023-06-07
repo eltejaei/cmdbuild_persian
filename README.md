@@ -28,7 +28,7 @@ If not, see <http://www.gnu.org/licenses/agpl.html>.
 ## How it works
 1- Download and deploy CMDBuild from official website 
 
-2- Download patch files
+2- Download "cmdbuild-3.3-fa-patch.rar" and extract it
 
 3- Stop Tomcat
 
