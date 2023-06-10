@@ -1,5 +1,5 @@
 ## CMDBuild_Persian
-This is a patch for CMDBuild that addresses certain issues and improves functionality, specifically targeting Persian speakers who utilize the right-to-left script and follow the Persian(Jalali) calendar. The purpose of this patch is to enhance the user experience and inclusivity for Persian-speaking users, ensuring they can fully utilize cmdbuild while adhering to their linguistic requirements.
+This is a patch for CMDBuild that improves functionality, specifically targeting Persian speakers who utilize the right-to-left script and follow the Persian(Jalali) calendar. CMDBuild is an open source web environment for the configuration of custom applications for Asset Managemen according to the needs of Organizations. The purpose of this patch is to enhance the user experience and inclusivity for Persian-speaking users, ensuring they can fully utilize cmdbuild while adhering to their linguistic requirements.
 
 This is an unofficial repository.  
 Official Maintainer: Tecnoteca - https://www.tecnoteca.com
